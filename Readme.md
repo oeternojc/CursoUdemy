@@ -2,5 +2,7 @@
 
 1 - Este é um respositóriuo de teste do Curso Git na Udemy
 
+2 - Curso em Andamento. base inicial aprendendo
+
 
 
