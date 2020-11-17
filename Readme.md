@@ -1,5 +1,10 @@
 #Curso de git na Udemy
 
+
+# Movendo para branch Main
+
+
+{
 1 - Este é um respositóriuo de teste do Curso Git na Udemy
 
 2 - Curso em Andamento. base inicial aprendendo
@@ -11,3 +16,6 @@
 5 - Subida do Codigo  para o GitHub
 
 6 - Retomando o raciocinio 
+
+
+}
