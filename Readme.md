@@ -1,8 +1,6 @@
 #Curso de git na Udemy
 
-
-# Movendo para branch Main
-
+#Branch Master
 
 {
 1 - Este é um respositóriuo de teste do Curso Git na Udemy
@@ -18,6 +16,9 @@
 6 - Retomando o raciocinio 
 
 }
+
+# Movendo para branch Main
+
 
 
 
