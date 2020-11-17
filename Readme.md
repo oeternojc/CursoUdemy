@@ -9,3 +9,5 @@
 4 - Estou gostando do curso da Udemy
 
 5 - Subida do Codigo  para o GitHub
+
+6 - Retomando o raciocinio 
