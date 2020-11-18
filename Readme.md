@@ -17,6 +17,9 @@
 
 }
 
+
+7 - Editando no windows
+
 # Movendo para branch Main
 
 
